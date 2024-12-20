@@ -49,7 +49,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           </button>
         </div>
         <div className="px-2">
-          <nav className="space-y-1">
+          <nav className="">
             <Link
               href="/"
               className={cn(

@@ -64,7 +64,7 @@ interface SheetContentProps
         ref={ref}
         className={cn(
           sheetVariants({ side }),
-          "inset-0 backdrop-blur-sm top-0 max-h-[60vh] w-full md:hidden rounded-b-lg border bg-white shadow-lg", 
+          "inset-0 backdrop-blur-sm top-0 max-h-[57vh] w-full md:hidden rounded-b-lg border bg-white shadow-lg", 
           className
         )}
         {...props}
