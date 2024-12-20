@@ -19,7 +19,7 @@ export function Sidebar() {
         <div className="w-8 h-8 rounded-lg flex items-center justify-center">
           <Image src={logo} alt="logo" className="h-7 w-7 text-white" />
         </div>
-        <span className="font-semibold text-[15px]">CodeAnt AI</span>
+        <span className="font-roboto text-[24px]">CodeAnt AI</span>
       </div>
 
       <div className="px-3 mb-2">

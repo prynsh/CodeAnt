@@ -204,11 +204,11 @@ export default function Signup() {
             <div className="flex justify-center ">
               <div className="h-10 w-10" />
             </div>
-            <div className="flex items-center gap-2 justify-center">
+            <div className="flex items-center gap-1 justify-center">
               <div className="w-8 h-8 rounded-lg  flex items-center justify-center">
                 <Image src={logo} alt='logo' className="h-7 w-7 text-white" />
               </div>
-              <span className="font-semibold text-[15px]">CodeAnt AI</span>
+              <span className="font-roboto text-[24px]">CodeAnt AI</span>
             </div>
             <h2 className="text-2xl font-bold mb-6">Welcome to CodeAnt AI</h2>
           </div>

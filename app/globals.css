@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-Light.ttf') format('ttf');
+  font-weight: 300; /* Light weight */
+  font-style: normal;
+}
